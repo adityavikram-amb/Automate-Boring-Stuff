@@ -1,6 +1,6 @@
 #! python3
 # mclip.py - A multi-clipboard program.
-# Star Wars- Interupt on "stop"
+# Star Wars- Interupt on "stop" 
 
 
 
