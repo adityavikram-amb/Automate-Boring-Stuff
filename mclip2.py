@@ -2,8 +2,6 @@
 # mclip.py - A multi-clipboard program.
 # Star Wars- Interupt on "stop" 
 
-
-
 import pyperclip
 TEXT = {'ok': """It's Treason then""",
 'yes': """Do it""",
